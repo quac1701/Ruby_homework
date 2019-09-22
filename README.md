@@ -1,3 +1,3 @@
 # Ruby-Hedspi-k61
 #
-# Tr?n Vi?t Ho�ng _20161721#
+# Trần Việt Hoàng _20161721#
